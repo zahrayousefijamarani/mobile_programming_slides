@@ -1,2 +1,2 @@
 # mobile_programming_slides
-These are For Mehdi Jafari
+These are fo Dr. Mehdi Jafari
